@@ -14,6 +14,9 @@
 |03.|CSS|Look & Feel - Cascading Style Sheet|
 |04.|JavaScript|Behavior - Programing Language|
 
+![profile](/src/img/img.jpeg)
+**Juan Jose**
+
 [ADSO Files DRIVE](https://tinyurl.com/wnkk334u)
 
 [VERCEL URL](https://vercel.app)
