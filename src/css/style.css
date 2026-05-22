@@ -31,12 +31,14 @@ body {
             flex-direction: column;
             h1 {
                 font-weight: 900;
-                border-bottom: 2px solid #000000;
+                border-bottom: 2px solid #ffffff;
+                color: #ffffff;
             }
             h2{
                 font-weight: 200;
                 font-size: 2rem;
-                border-bottom: 1px solid #000000;
+                border-bottom: 1px solid #ffffff;
+                color: #ffffff;
             }
             h3{
                 font-weight: 400;
@@ -49,9 +51,9 @@ body {
             img {
                 border: #000000 solid 6px;
                 border-radius: 50%;
-                width: 640PX;
+                width: 340PX;
                 object-fit: cover;
-                height: 640PX;
+                height: 340PX;
             }
         }
         menu.mainmenu {
@@ -63,7 +65,7 @@ body {
             a:is(:link, :visited) {
                 background-color: rgba(255, 255, 255, 0.845);
                 border-radius: 6rem;
-                color: #0009;
+                color: rgba(0, 0, 0, 0.6);
                 display: flex;
                 align-items: center;
                 flex-direction: column;
