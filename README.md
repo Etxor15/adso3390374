@@ -14,7 +14,7 @@
 |03.|CSS|Look & Feel - Cascading Style Sheet|
 |04.|JavaScript|Behavior - Programing Language|
 
-![profile](/src/img/img.jpeg)
+![profile](/src/img/D8.webp)
 **Juan Jose**
 
 [ADSO Files DRIVE](https://tinyurl.com/wnkk334u)
